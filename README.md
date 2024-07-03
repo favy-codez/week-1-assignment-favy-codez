@@ -19,7 +19,7 @@ ________________________________________________________________________________
 ## Submission:
 
 Save your completed assignment as a document (e.g., .docx, pdf)
-Submit your document through the designated course platform.
+Submit your document through the designated course platform. - https://docs.google.com/document/d/1GGSm-YJPinVfj5LBW-_egzdvmgfHhCbFjVnCgjXYy5k/edit
 _________________________________________________________________________________________________________________________
 
 ## Part 1: Understanding SQL (30 minutes)
